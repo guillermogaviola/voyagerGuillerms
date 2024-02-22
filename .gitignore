@@ -18,3 +18,4 @@ yarn-error.log
 /config/cache.php
 /config/session.php
 /config/broadcasting.php
+.env

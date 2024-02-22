@@ -12,8 +12,6 @@ steps:
 
 4. run command: php artisan voyager:install --with-dummy
 
-5. haha
-
 
 
 ## Default Login Details:
